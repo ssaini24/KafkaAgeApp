@@ -22,7 +22,7 @@ and `bin/kafka-topics.sh --create --topic ODD_TOPIC --bootstrap-server localhost
 
 ## Clone and Build the Application:
 
-Clone the repository with `git clone <repository_url>` and navigate to the project directory using `cd KafkaAgeApp`.
+Clone the repository with `git clone https://github.com/ssaini24/KafkaAgeApp.git` and navigate to the project directory using `cd KafkaAgeApp`.
 Build the application using `mvn clean install`.
 
 ## Run the Application:
